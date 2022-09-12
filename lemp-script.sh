@@ -10,3 +10,4 @@ sudo nginx -t
 sudo unlink /etc/nginx/sites-enabled/default
 sudo systemctl reload nginx
 sudo cp ./info.php /var/www/projectLEMP/
+sudo cp ./todo_list.php /var/www/projectLEMP/
